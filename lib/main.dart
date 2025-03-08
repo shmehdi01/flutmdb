@@ -14,7 +14,7 @@ import 'app/views/movie_list/cubits/toggle_view/toggle_cubit.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await DI.initialize(apiKey: 'eadb266aa37c26749a997233b4f52f3c');
+  await DI.initialize(apiKey: 'TMDB_API_KEY');
   await Hive.initFlutter();
   runApp(
     BlocProvider(

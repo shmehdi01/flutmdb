@@ -19,4 +19,4 @@ TMDB + Flutter
 <img src="media/scr3.jpeg" height="300" alt="List View"> | <img src="media/scr4.jpeg" height="300" alt="Favorite View">
 <img src="media/flutemdb.gif" height="300">
 
-[Watch Video] (https://drive.google.com/file/d/1BXzB_FnHFHN9TTjoIIJWc5cJF01MsbkA/view?usp=drive_link)
+[Watch Video](https://drive.google.com/file/d/1BXzB_FnHFHN9TTjoIIJWc5cJF01MsbkA/view?usp=drive_link)

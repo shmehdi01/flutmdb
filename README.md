@@ -2,15 +2,12 @@
 
 TMDB + Flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="media/scr1.jpeg" height="300" alt="main">
+<img src="media/scr2.jpeg" height="300" alt="Detail">
+<img src="media/scr3.jpeg" height="300" alt="List View">
+<img src="media/scr4.jpeg" height="300" alt="Favorite View">
+<video src='media/flutmdb.mp4' height="300"></video>
